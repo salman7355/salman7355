@@ -10,7 +10,7 @@
 - 📱 I build cross-platform mobile apps with **React Native / Expo**, and full-stack web apps with **Next.js**
 - 🧠 Currently building **Trainova** — an AI fitness app with a computer-vision body-composition scanner (see below)
 - 🌱 Actively sharpening testing, secure mobile storage, and performance profiling
-- 📍 Based in Cairo, Egypt — open to remote work
+- 📍 Based in Cairo, Egypt — open to remote work, travel & relocation
 - 📫 Reach me at **salmanmohamed837@gmail.com**
 
 <br/>
