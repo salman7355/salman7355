@@ -92,14 +92,14 @@
 
 ### 📊 GitHub Stats
 
-<div align="center">
+<!-- <div align="center">
 
 ![Followers](https://img.shields.io/github/followers/salman7355?style=for-the-badge&color=2DD4BF&logo=github&logoColor=white&label=Followers)
 ![Public Repos](https://img.shields.io/badge/dynamic/json?style=for-the-badge&color=896CFE&label=Repos&query=%24.public_repos&url=https%3A%2F%2Fapi.github.com%2Fusers%2Fsalman7355)
 
 <img src="https://streak-stats.demolab.com/?user=salman7355&theme=dark&background=0D1117&ring=2DD4BF&fire=896CFE&currStreakLabel=2DD4BF&border=2DD4BF" height="165" />
 
-</div>
+</div> -->
 
 <br/>
 
@@ -120,6 +120,6 @@
 
 <br/>
 
-<div align="center">
+<!-- <div align="center">
 <img src="https://komarev.com/ghpvc/?username=salman7355&color=2DD4BF&style=flat&label=Profile+Views" />
-</div>
+</div> -->
