@@ -6,7 +6,7 @@
 
 ### 👋 About me
 
-- 🎓 BSc Computer Science — Software Engineering, Ain Shams University (2020–2024)
+- 🎓 BSc Computer Science — Software Engineering, Ain Shams University (dual degree w/ UEL) · 2020–2024
 - 📱 I build cross-platform mobile apps with **React Native / Expo**, and full-stack web apps with **Next.js**
 - 🧠 Currently building **Trainova** — an AI fitness app with a computer-vision body-composition scanner (see below)
 - 🌱 Actively sharpening testing, secure mobile storage, and performance profiling
