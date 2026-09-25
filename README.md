@@ -8,7 +8,7 @@
 
 - 🎓 BSc Computer Science — Software Engineering, Ain Shams University (dual degree w/ UEL) · 2020–2024
 - 📱 I build cross-platform mobile apps with **React Native / Expo**, and full-stack web apps with **Next.js**
-- 🧠 Currently building **Trainova** — an AI fitness app with a computer-vision body-composition scanner (see below)
+- 🧠 Currently building **Trainova** — an AI fitness app with a computer-vision body-composition scanner
 - 🌱 Actively sharpening testing, secure mobile storage, and performance profiling
 - 📍 Based in Cairo, Egypt — open to remote work, travel & relocation
 - 📫 Reach me at **salmanmohamed837@gmail.com**
@@ -62,7 +62,7 @@
 
 ### 🚀 Featured Project — Trainova
 
-> AI-powered fitness companion. Point your camera at an InBody scan result and it extracts your body-composition data — muscle mass, body fat %, visceral fat, BMR — then maps it onto an interactive 3D body model so you can track changes visually over time.
+> AI-powered fitness companion. Point your camera at an InBody scan result and it extracts your body-composition data — muscle mass, body fat %, visceral fat, BMR.
 
 ![Expo](https://img.shields.io/badge/Expo/React_Native-000020?style=flat-square&logo=expo&logoColor=white)
 ![NestJS](https://img.shields.io/badge/NestJS-E0234E?style=flat-square&logo=nestjs&logoColor=white)
@@ -79,14 +79,14 @@
 
 | Project | Stack | Repo |
 |---|---|---|
-| **Trainova** — AI fitness app with InBody scan AI & 3D body model | Expo, NestJS, PostgreSQL, FastAPI, MediaPipe | [Link](https://github.com/salman7355/trainova) |
-| **InstaLink** — Full social media app (stories, posts, real-time notifications) | React Native, NodeJS, ExpressJS, PostgreSQL, Firebase | [Link](https://github.com/salman7355) |
-| **E-Learning App** — Course marketplace with cart, enrollment & admin panel | React Native, NodeJS, ExpressJS, PostgreSQL, Firebase | [Link](https://github.com/salman7355) |
-| **Movie Wishlist** — Streaming companion with Rails/JWT auth | React Native, Ruby on Rails, Devise JWT | [Link](https://github.com/salman7355) |
-| **Blog Platform** — Server-rendered blogging platform | Next.js, MongoDB | [Link](https://github.com/salman7355) |
-| **Secure Gadget Store** — Session-authenticated marketplace (cybersecurity training capstone) | Flask, SQLite, Tailwind CSS | [Link](https://github.com/salman7355) |
+| **Trainova** — AI fitness app with InBody scan AI | Expo, NestJS, PostgreSQL, FastAPI, MediaPipe 
+| **InstaLink** — Full social media app (stories, posts, real-time notifications) | React Native, NodeJS, ExpressJS, PostgreSQL, Firebase | [Link](https://github.com/salman7355/instaLink-frontend) |
+| **E-Learning App** — Course marketplace with cart, enrollment & admin panel | React Native, NodeJS, ExpressJS, PostgreSQL, Firebase | [Link](https://github.com/salman7355/E-learning-Frontend) |
+| **Movie Wishlist** — Streaming companion with Rails/JWT auth | React Native, Ruby on Rails, Devise JWT | [Link](https://github.com/salman7355/XSMA_StreamingMobileApp) |
+| **Blog Platform** — Server-rendered blogging platform | Next.js, MongoDB | [Link](https://github.com/salman7355/BlogApp_NextJs) |
+| **Secure Gadget Store** — Session-authenticated marketplace (cybersecurity training capstone) | Flask, SQLite, Tailwind CSS | [Link](https://github.com/salman7355/cyberusTrainingProject) |
 
-<sup>Update the repo links above once each project has its own GitHub repository — currently pointing at your profile as a placeholder.</sup>
+
 
 <br/>
 
