@@ -71,7 +71,6 @@
 ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
 ![MediaPipe](https://img.shields.io/badge/MediaPipe-0F9D58?style=flat-square)
 
-**[→ View the repo](https://github.com/salman7355/trainova)**
 
 <br/>
 
